@@ -2,26 +2,26 @@
 
 This is a bot that allows you to create a ticket to contact the discord server administration by its user
 
-### Example action ⚙️
+### Example action 👇
 
 ![.](https://i.imgur.com/2uJFal7.png)
 
-### If the user presses the button 
+### If the user presses the button 👇
 
 ![.](https://i.imgur.com/WZgrZ9W.png)
 
-### After completing the form, a channel will be opened
+### After completing the form, a channel will be opened 👇
 
 ![.](https://i.imgur.com/kfQhvXF.png)
 
-### A private message will be sent to the user
+### A private message will be sent to the user 👇
 
 ![.](https://i.imgur.com/3tspuMd.png)
 
 
 
 
-## Example config
+## Example config 🔧
 
 ```java
     public Config() {
