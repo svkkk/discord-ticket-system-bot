@@ -57,7 +57,7 @@ This is a bot that allows you to create a ticket to contact the discord server a
     }
 ```
 
-## I encourage you to use the code, if you find an error please contact me
+## I encourage you to use the code, if you find an error or a question in my direction please contact me
 
 ## Contact with me
 My private discord: svk#1066
