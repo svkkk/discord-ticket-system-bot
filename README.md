@@ -57,6 +57,12 @@ This is a bot that allows you to create a ticket to contact the discord server a
     }
 ```
 
+## Don't forget to change the bot token in the DiscordBot class
+
+```java
+JDABuilder jda = JDABuilder.createDefault(TOKEN);
+```
+
 ## I encourage you to use the code, if you find an error or a question in my direction please contact me
 
 ## Contact with me
