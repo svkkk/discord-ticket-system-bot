@@ -66,6 +66,6 @@ JDABuilder jda = JDABuilder.createDefault(TOKEN);
 ## I encourage you to use the code, if you find an error or a question in my direction please contact me 📩
 
 ## Contact with me
-My private discord: svk#1066
+🌌 My private discord: svk#1066
 
-[My Discord server](https://dc.dxsbots.pl)
+🌌 [My Discord server](https://dc.dxsbots.pl)
