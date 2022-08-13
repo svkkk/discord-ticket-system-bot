@@ -1,12 +1,12 @@
-# Discord TicketSystem Bot
+# Discord TicketSystem Bot 🤖
 
 This is a bot that allows you to create a ticket to contact the discord server administration by its user
 
-### Example action
+### Example action ⚙️
 
 ![.](https://i.imgur.com/2uJFal7.png)
 
-### If the user presses the button
+### If the user presses the button 
 
 ![.](https://i.imgur.com/WZgrZ9W.png)
 
@@ -57,13 +57,13 @@ This is a bot that allows you to create a ticket to contact the discord server a
     }
 ```
 
-## Don't forget to change the bot token in the DiscordBot class
+## ❗️ Don't forget to change the bot token in the DiscordBot class
 
 ```java
 JDABuilder jda = JDABuilder.createDefault(TOKEN);
 ```
 
-## I encourage you to use the code, if you find an error or a question in my direction please contact me
+## I encourage you to use the code, if you find an error or a question in my direction please contact me 📩
 
 ## Contact with me
 My private discord: svk#1066
